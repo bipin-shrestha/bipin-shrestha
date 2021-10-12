@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 😄 Pronouns: BEE PIN
 - 🔭 I’m currently working as Store Manager in Chevron Store in Davis, CA.
 - 🌱 I’m currently learning in LAMBDA School.
 - 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/bpnshrestha)
